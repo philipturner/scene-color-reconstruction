@@ -1,5 +1,7 @@
 # Adding Color to 3D Scene Reconstruction for Augmented Reality Headset Experiences Using an iPhone
 
+Philip Turner
+
 Published: June 3, 2021
 
 ## Abstract
