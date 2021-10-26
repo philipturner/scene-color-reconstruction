@@ -10,4 +10,4 @@ In October 2020, Apple released the iPhone 12 Pro, which had a LiDAR scanner tha
 
 Download the full text [here](https://raw.githubusercontent.com/philipturner/scene-color-reconstruction/master/Scene%20Color%20Reconstruction.pdf).
 
-For the source code used in this research, check out [AR MultiPendulum](https://github.com/philipturner/ar-multipendulum).
+Source code from this research is open-sourced as part of [ARHeadsetKit](https://github.com/philipturner/ARHeadsetKit).
